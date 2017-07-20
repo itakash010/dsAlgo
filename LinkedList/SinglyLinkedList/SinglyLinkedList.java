@@ -24,10 +24,10 @@ class Node{
 	}
 }
 
-public class SingleLinkedList{
+public class SinglyLinkedList{
 	private static Node head;
 
-	SingleLinkedList(){
+	SinglyLinkedList(){
 		head = null;
 	}
 
